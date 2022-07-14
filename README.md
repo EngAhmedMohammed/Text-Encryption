@@ -104,3 +104,6 @@ First, we need to get the private key using the following equation
 d=e−1modϕ, d is called modular inverse
 After we get the d we can easily decrypt the cipher text to plain text
 p=c^d mod n [11]
+
+
+For more details you can read the file "Text Encryption Report".
