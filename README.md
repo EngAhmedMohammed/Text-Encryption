@@ -64,6 +64,7 @@ In general, the algorithm can be expressed as follows:
 Cipher text = C = E*P mod n.
 Plain text = P = E -1*C mod n = E-1E*P = P.
 
+
 2- RSA Algorithm
 
 (i) Definition:-
